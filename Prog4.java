@@ -10,6 +10,6 @@ class Prog4
 				System.out.println(""+a);
 			a--;
 		}
-		while(a<=25);
+		while(a<30);
 	}
 }	
