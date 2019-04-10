@@ -7,7 +7,7 @@ class Prog4
 		do
 		{
 			if(a%2==0)	
-				System.out.println(""+a);
+				System.out.println("values a"+a);
 			a--;
 		}
 		while(a<30);
